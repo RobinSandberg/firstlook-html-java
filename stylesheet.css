@@ -1,0 +1,19 @@
+h1,
+h2,
+h3,
+h4 {
+    color: red;
+}
+
+.section1 {
+    background-color: lightblue;
+}
+
+.section1 p {
+    color: red;
+}
+
+#secretSection {
+    background-color: pink;
+    color: blue;
+}
