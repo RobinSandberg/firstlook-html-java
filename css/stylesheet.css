@@ -1,0 +1,49 @@
+h1,
+h2,
+h3,
+h4 {
+    color: red;
+}
+
+body{
+    width: 1024px;
+    background-color: black;
+}
+
+header {
+    width: 70%;
+    float: left;
+    background-color: lightgrey;
+}
+
+#section1 {
+    float: left;
+    width: 70%;
+    background-color: lightgrey;
+}
+
+#aside1 {
+    float: right;
+    width: 30%;
+    background-color: darkgrey;
+}
+
+#art1 {
+    float: left;
+    width: 50%;
+    background-color: green;
+
+}
+
+#art2 {
+    float: right;
+    width: 50%;
+    background-color: pink;
+}
+
+footer {
+  width: 100%;
+  float: left;
+  text-align: center;
+  background-color: darkgray;
+}
